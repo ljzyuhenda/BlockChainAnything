@@ -1,0 +1,22 @@
+1.工具下载
+	vscode 下载
+	.net core sdk下载
+2.vscode c#扩展下载
+	c#
+	c#Extensions
+	c#FixFormat
+3.命令行创建c#项目
+	dotnet new console 创建项目
+	dotnet restore 下载依赖
+	dotnet run 运行
+
+	提示生成debug相关asserts
+	vscode 查看命令面板 .net:generate asserts for debug and build 命令
+4.nuget管理 搜索 nbitcoin https://www.nuget.org/packages/NBitcoin/
+		
+	命令行执行 dotnet add package NBitcoin --version 4.0.0.56	 添加nbitcoin依赖
+
+	launch.json
+	tasks.json
+	blockchain.csproj 
+		相关配置文件

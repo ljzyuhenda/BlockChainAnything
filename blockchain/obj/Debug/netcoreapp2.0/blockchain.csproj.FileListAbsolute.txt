@@ -1,0 +1,10 @@
+/Users/ljzyuhenda/Documents/blockchain/bin/Debug/netcoreapp2.0/blockchain.deps.json
+/Users/ljzyuhenda/Documents/blockchain/bin/Debug/netcoreapp2.0/blockchain.runtimeconfig.json
+/Users/ljzyuhenda/Documents/blockchain/bin/Debug/netcoreapp2.0/blockchain.runtimeconfig.dev.json
+/Users/ljzyuhenda/Documents/blockchain/bin/Debug/netcoreapp2.0/blockchain.dll
+/Users/ljzyuhenda/Documents/blockchain/bin/Debug/netcoreapp2.0/blockchain.pdb
+/Users/ljzyuhenda/Documents/blockchain/obj/Debug/netcoreapp2.0/blockchain.csproj.CoreCompileInputs.cache
+/Users/ljzyuhenda/Documents/blockchain/obj/Debug/netcoreapp2.0/blockchain.AssemblyInfoInputs.cache
+/Users/ljzyuhenda/Documents/blockchain/obj/Debug/netcoreapp2.0/blockchain.AssemblyInfo.cs
+/Users/ljzyuhenda/Documents/blockchain/obj/Debug/netcoreapp2.0/blockchain.dll
+/Users/ljzyuhenda/Documents/blockchain/obj/Debug/netcoreapp2.0/blockchain.pdb
